@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies Modfied files shiva.
+ * Module dependencies .
  */
 
 const app = require('./app');
